@@ -1,0 +1,4 @@
+# Install 
+
+sudo su 
+wget 
